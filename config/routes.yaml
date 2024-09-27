@@ -1,3 +1,3 @@
-unit.route
+app_unit:
     path: /
-    controller: unitController
+    controller: App\Controller\UnitController
